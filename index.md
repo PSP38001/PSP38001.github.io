@@ -15,3 +15,6 @@ Quelle: Wikipedia https://de.wikipedia.org/wiki/Christian_Drosten
 2005 wurde ihm das Bundesverdienstkreuz am Bande verliehen, da er mit Stephan Günther als einer der Ersten einen diagnostischen Test für das Coronavirus SARS-CoV 
      entwickelte.
 und Andere.
+
+Zitate
+> Können hier nicht angegeben werden.
