@@ -18,3 +18,15 @@ und Andere.
 
 Zitate
 > Können hier nicht angegeben werden.
+
+Bilder
+Sind ebenfalls schwer zu veröffentlichen
+
+Bild-Informationen
+IPTC-Daten
+Titel 				Coronavirus - SARS-CoV-2
+Stichwörter			Corona, Virus, SARS-CoV-2, weisser Hintergrund
+Copyright-Vermerk	Creative commons - Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
+Beschreibung		Illustration eines Coronavirus (SARS-CoV-2) auf weissem Hintergrund
+
+<img src="http://www.medicalgraphics.de/kostenlose-bilder/erkrankungen/corona-virus-weisser-hintergrund.html"/> 
